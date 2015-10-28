@@ -1,0 +1,15 @@
+{
+  "name": "tansidian-theme",
+  "title": "Tansidian Theme",
+  "description": "Dark theme enspired by Tango and Obsidian",
+  "homepage": "https://github.com/aves84/tansidian-theme",
+  "version": "1.0.0",
+  "author": "Aves84 <aves.v@ya.ru> (https://github.com/aves84/tansidian-theme)",
+  "license": "MIT",
+  "theme": {
+    "file": "theme.less",
+    "dark": true,
+    "addModeClass": true
+  },
+  "keywords": ["theme"]
+}
